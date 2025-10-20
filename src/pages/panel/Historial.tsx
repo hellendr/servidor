@@ -1,4 +1,4 @@
-// src/pages/panel/Historial.tsx
+
 import React, { useState } from "react";
 import CalendarView from "../../componets/DashBoard/CalendarView";
 import Estado from "./Estado";
