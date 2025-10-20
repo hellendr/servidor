@@ -1,0 +1,50 @@
+
+.historial-container {
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.historial-header h1 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+  background-color: blue;
+}
+
+.historial-header p {
+  color: #666;
+  margin-bottom: 1.5rem;
+}
+
+.historial-tabs {
+  display: flex;
+  gap: 20px;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.tab-activo {
+  border-bottom: 2px solid black;
+}
+
+.historial-separador {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin-bottom: 1.5rem;
+}
+
+.lista-section {
+  margin-top: 2rem;
+  background: white;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+.lista-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.lista-section li {
+  padding: 8px 0;
+  border-bottom: 1px solid #eee;
+}
