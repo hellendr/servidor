@@ -25,7 +25,7 @@ export default function List({ item }: ListProps) {
                 hover:scale-[1.02]
                 hover:bg-green-100 
                 cursor-pointer
-            "
+            " 
         >
             {}
             <div>
